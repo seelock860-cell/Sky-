@@ -1,0 +1,6 @@
+{
+  "name": "SkyHome - Luxury Nigerian Real Estate",
+  "description": "Discover and acquire luxury properties, duplexes, penthouses, and residential homes across Nigeria with SkyHome. Your dream home, our priority.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,227 @@
+{
+  "admin_user": {
+    "id": "admin-1",
+    "username": "sky",
+    "full_name": "SkyHome Administrator",
+    "salt": "1c603db5d6e2439fd7ecefe2d381505e",
+    "password_hash": "31f63594c2293f490e3785a070db4128a385b5d361d2c9ca0ee2adcccabc362fe19965a66bb91a646c204044e9dba12a46a30aa95b4b34356c9d57b744214bb5",
+    "is_temporary_password": true,
+    "created_at": "2026-10-24T08:11:59.908Z"
+  },
+  "sessions": {
+    "0c9273fdcf6f04fe45765e92bc6dc2856f9735b5b773e1d50f694e166775b03b": {
+      "userId": "admin-1",
+      "expiresAt": 1793434339342
+    }
+  },
+  "properties": [
+    {
+      "id": "prop-1",
+      "title": "The Sovereign Villa — Waterfront Luxury Mansion",
+      "slug": "the-sovereign-villa-banana-island-lagos",
+      "category": "Houses",
+      "price": 2500000000,
+      "location": "Banana Island, Ikoyi, Lagos",
+      "address": "Plot 18, Zone A, Banana Island, Ikoyi, Lagos",
+      "description": "An architectural masterpiece offering uninterrupted water views across Lagos Lagoon. Features a private yacht jetty, expansive infinity-edge pool, private cinema room, double-volume living area with floor-to-ceiling glass, Italian marble throughout, smart home automation, and 2-room staff quarters.",
+      "bedrooms": 6,
+      "bathrooms": 7,
+      "building_size": "1,100 sqm",
+      "land_size": "1,800 sqm",
+      "features": [
+        "Private Boat Jetty",
+        "Lagoon Infinity Pool",
+        "Smart Home Automation",
+        "Private Cinema (12 Seats)",
+        "Private Elevator",
+        "Governor's Consent",
+        "24/7 Armed Security",
+        "Standby Industrial Generator",
+        "Fitted Chef's Kitchen"
+      ],
+      "image_urls": [
+        "/src/assets/images/prop_banana_island_waterfront_1792828924150.jpg",
+        "/src/assets/images/hero_luxury_lagos_mansion_1792828923387.jpg"
+      ],
+      "status": "Available",
+      "is_featured": true,
+      "is_verified": true,
+      "created_at": "2026-10-20T08:11:59.907Z",
+      "updated_at": "2026-10-20T08:11:59.908Z"
+    },
+    {
+      "id": "prop-2",
+      "title": "The Grand Manor — Ultra-Modern Detached Duplex",
+      "slug": "the-grand-manor-old-ikoyi-lagos",
+      "category": "Duplexes",
+      "price": 1450000000,
+      "location": "Old Ikoyi, Lagos",
+      "address": "12 Alexander Road, Old Ikoyi, Lagos",
+      "description": "Sophisticated 5-bedroom contemporary detached duplex crafted with natural white limestone and custom bronze architectural louvers. Boasts a private manicured garden, Olympic-grade private lap pool, designer elevator, automated entrance gates, and solar hybrid backup power.",
+      "bedrooms": 5,
+      "bathrooms": 6,
+      "building_size": "850 sqm",
+      "land_size": "1,000 sqm",
+      "features": [
+        "Contemporary Architecture",
+        "Private Lap Pool",
+        "Fitted Italian Kitchen",
+        "2-Room Staff Quarters",
+        "Certificate of Occupancy (C of O)",
+        "Automated Gate & Access Control",
+        "Dedicated 50KVA Transformer",
+        "Rooftop Lounge"
+      ],
+      "image_urls": [
+        "/src/assets/images/prop_ikoyi_detached_duplex_1792828923535.jpg"
+      ],
+      "status": "Available",
+      "is_featured": true,
+      "is_verified": true,
+      "created_at": "2026-10-21T08:11:59.908Z",
+      "updated_at": "2026-10-21T08:11:59.908Z"
+    },
+    {
+      "id": "prop-3",
+      "title": "Skyline Presidential Penthouse with Private Terrace",
+      "slug": "skyline-presidential-penthouse-maitama-abuja",
+      "category": "Apartments",
+      "price": 980000000,
+      "location": "Maitama, Abuja",
+      "address": "High-Rise Tower, Aguiyi Ironsi Way, Maitama, Abuja",
+      "description": "A rare top-floor duplex penthouse in diplomatic Maitama with 360-degree panoramic views of the Abuja skyline and Aso Rock. Features an open-air entertainment terrace with fire pit and dining pergola, biometric elevator entry, private wine cellar, and 4 dedicated basement car parks.",
+      "bedrooms": 4,
+      "bathrooms": 5,
+      "building_size": "620 sqm",
+      "land_size": "620 sqm",
+      "features": [
+        "Panoramic Skyline Views",
+        "Rooftop Terrace & Lounge",
+        "Private Biometric Elevator",
+        "24/7 Concierge Service",
+        "Basement Parking (4 Cars)",
+        "Federal C of O",
+        "Exclusive Gym & Spa Access",
+        "Wine Cellar"
+      ],
+      "image_urls": [
+        "/src/assets/images/prop_maitama_penthouse_1792828924837.jpg"
+      ],
+      "status": "Available",
+      "is_featured": true,
+      "is_verified": true,
+      "created_at": "2026-10-22T08:11:59.908Z",
+      "updated_at": "2026-10-22T08:11:59.908Z"
+    },
+    {
+      "id": "prop-4",
+      "title": "The Aurelia Contemporary Terrace Duplex",
+      "slug": "the-aurelia-terrace-duplex-lekki-phase-1",
+      "category": "Duplexes",
+      "price": 420000000,
+      "location": "Lekki Phase 1, Lagos",
+      "address": "Admiralty Way Axis, Lekki Phase 1, Lagos",
+      "description": "Stunning 4-bedroom terrace duplex in a secure, serene private cul-de-sac. Features multi-level terrace balconies, sleek warm ambient architectural illumination, premium German sanitary fittings, open-plan island kitchen, and built-in acoustic ceilings.",
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "building_size": "450 sqm",
+      "land_size": "500 sqm",
+      "features": [
+        "Gated Residential Court",
+        "Governor's Consent",
+        "Rooftop Sit-Out Area",
+        "Fully Fitted Kitchen & Pantry",
+        "CCTV Surveillance Network",
+        "Hybrid Solar Inverter",
+        "Industrial Water Purification"
+      ],
+      "image_urls": [
+        "/src/assets/images/prop_lekki_terrace_duplex_1792828924893.jpg"
+      ],
+      "status": "Available",
+      "is_featured": true,
+      "is_verified": true,
+      "created_at": "2026-10-23T08:11:59.908Z",
+      "updated_at": "2026-10-23T08:11:59.908Z"
+    },
+    {
+      "id": "prop-5",
+      "title": "The Glass Pavilion Luxury Mansion",
+      "slug": "the-glass-pavilion-luxury-mansion-victoria-island",
+      "category": "Residential properties",
+      "price": 1800000000,
+      "location": "Victoria Island, Lagos",
+      "address": "Kofo Abayomi Street, Victoria Island, Lagos",
+      "description": "An iconic modern residence combining commercial-grade structural steel and floor-to-ceiling glass pavilions. Features heated infinity pool, private wellness studio, manicured tropical courtyard, chef-grade preparation kitchen, and automated shade louvers.",
+      "bedrooms": 5,
+      "bathrooms": 6,
+      "building_size": "920 sqm",
+      "land_size": "1,250 sqm",
+      "features": [
+        "Infinity Swimming Pool",
+        "Double-Height Glass Atrium",
+        "Wellness & Sauna Studio",
+        "C of O with Governor's Consent",
+        "Full Smart Lighting Control",
+        "3-Car Enclosed Garage"
+      ],
+      "image_urls": [
+        "/src/assets/images/hero_luxury_lagos_mansion_1792828923387.jpg"
+      ],
+      "status": "Available",
+      "is_featured": false,
+      "is_verified": true,
+      "created_at": "2026-10-19T08:11:59.908Z",
+      "updated_at": "2026-10-19T08:11:59.908Z"
+    }
+  ],
+  "enquiries": [
+    {
+      "id": "enquiry-1",
+      "property_id": "prop-1",
+      "property_title": "The Sovereign Villa — Waterfront Luxury Mansion",
+      "customer_name": "Dr. Babatunde Adeleke",
+      "customer_phone": "+234 803 555 0192",
+      "customer_email": "babatunde.adeleke@example.com",
+      "message": "Good day, I am interested in scheduling a private viewing for The Sovereign Villa in Banana Island this coming Saturday. Kindly confirm if the boat jetty has deep water clearance for a 45ft yacht.",
+      "status": "unread",
+      "created_at": "2026-10-24T05:11:59.908Z"
+    },
+    {
+      "id": "enquiry-2",
+      "property_id": "prop-3",
+      "property_title": "Skyline Presidential Penthouse with Private Terrace",
+      "customer_name": "Amina Bello Esq.",
+      "customer_phone": "+234 809 123 4567",
+      "customer_email": "amina.bello@example.com",
+      "message": "Hello, please share the title documentation and payment structure for the Maitama penthouse. Can we discuss on WhatsApp?",
+      "status": "read",
+      "created_at": "2026-10-23T08:11:59.908Z"
+    }
+  ],
+  "site_settings": {
+    "id": "settings-1",
+    "company_name": "SkyHome",
+    "tagline": "Your Dream Home, Our Priority.",
+    "whatsapp_number": "09024971419",
+    "contact_email": "contact@skyhome.ng",
+    "office_address": "14B Admiralty Way, Lekki Phase 1, Lagos, Nigeria",
+    "about_content": {
+      "who_we_are": "SkyHome is a premier Nigerian luxury real estate advisory and property brokerage founded to redefine how discerning individuals, families, and global investors acquire prime residential and commercial real estate in Nigeria. We specialize in high-value properties in Lagos (Ikoyi, Banana Island, Victoria Island, Lekki Phase 1) and Abuja (Maitama, Asokoro, Guzape).",
+      "mission": "To provide transparent, secure, and stress-free real estate acquisition experiences backed by rigorous title verification and dedicated white-glove advisory.",
+      "vision": "To be the most trusted luxury property brand in Nigeria, connecting clients to their dream homes while safeguarding generational wealth.",
+      "why_choose_us": [
+        "100% Verified Titles: Every property undergoes thorough legal and title verification before listing.",
+        "Prime Nigerian Locations: Exclusive access to off-market and prime properties in Ikoyi, Banana Island, Lekki, and Maitama.",
+        "Transparent Process: No hidden charges, direct vendor communication, and end-to-end documentation handling.",
+        "Dedicated Advisory: Expert real estate consultants ready to guide your purchase via WhatsApp or private viewing."
+      ],
+      "customer_support": "Our dedicated advisory team is available Monday through Saturday, 8:00 AM – 7:00 PM (WAT) to arrange physical property inspections, provide title documents, and answer purchase enquiries."
+    },
+    "updated_at": "2026-10-24T08:11:59.908Z"
+  },
+  "supabase_config": {
+    "project_url": "",
+    "anon_key": ""
+  }
+}
